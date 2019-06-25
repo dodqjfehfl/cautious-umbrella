@@ -1,1 +1,1 @@
-printf("더 이상 칠 말이 없다.\n");
+printf("why korean always broken\n");
